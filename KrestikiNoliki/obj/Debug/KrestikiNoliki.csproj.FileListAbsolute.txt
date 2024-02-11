@@ -1,0 +1,15 @@
+C:\Users\park_\source\repos\KrestikiNoliki\KrestikiNoliki\bin\Debug\KrestikiNoliki.exe.config
+C:\Users\park_\source\repos\KrestikiNoliki\KrestikiNoliki\bin\Debug\KrestikiNoliki.exe
+C:\Users\park_\source\repos\KrestikiNoliki\KrestikiNoliki\bin\Debug\KrestikiNoliki.pdb
+C:\Users\park_\source\repos\KrestikiNoliki\KrestikiNoliki\obj\Debug\KrestikiNoliki.csproj.AssemblyReference.cache
+C:\Users\park_\source\repos\KrestikiNoliki\KrestikiNoliki\obj\Debug\MainWindow.g.cs
+C:\Users\park_\source\repos\KrestikiNoliki\KrestikiNoliki\obj\Debug\App.g.cs
+C:\Users\park_\source\repos\KrestikiNoliki\KrestikiNoliki\obj\Debug\KrestikiNoliki_MarkupCompile.cache
+C:\Users\park_\source\repos\KrestikiNoliki\KrestikiNoliki\obj\Debug\KrestikiNoliki_MarkupCompile.lref
+C:\Users\park_\source\repos\KrestikiNoliki\KrestikiNoliki\obj\Debug\MainWindow.baml
+C:\Users\park_\source\repos\KrestikiNoliki\KrestikiNoliki\obj\Debug\KrestikiNoliki.g.resources
+C:\Users\park_\source\repos\KrestikiNoliki\KrestikiNoliki\obj\Debug\KrestikiNoliki.Properties.Resources.resources
+C:\Users\park_\source\repos\KrestikiNoliki\KrestikiNoliki\obj\Debug\KrestikiNoliki.csproj.GenerateResource.cache
+C:\Users\park_\source\repos\KrestikiNoliki\KrestikiNoliki\obj\Debug\KrestikiNoliki.csproj.CoreCompileInputs.cache
+C:\Users\park_\source\repos\KrestikiNoliki\KrestikiNoliki\obj\Debug\KrestikiNoliki.exe
+C:\Users\park_\source\repos\KrestikiNoliki\KrestikiNoliki\obj\Debug\KrestikiNoliki.pdb
